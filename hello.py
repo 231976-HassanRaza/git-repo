@@ -1,3 +1,3 @@
-print("Hello GitHub!")
+print("This line was added directly on GitHub.")
 name = input("What is your name? ")
 print("Hello", name)
